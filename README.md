@@ -143,6 +143,7 @@ Site Web + Painel Administrativo
 ```
 
 Os frontends não devem acessar diretamente o banco de dados. A comunicação deve ocorrer através do backend/API.
+
 Autor
 
 Nicolas Z. Grecco
