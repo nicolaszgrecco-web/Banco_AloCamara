@@ -29,9 +29,10 @@ Nome do banco:
 alo_camara
 
 O banco utiliza:
+```text
 CHARACTER SET utf8mb4
 COLLATE utf8mb4_unicode_ci
-
+```
 para permitir o armazenamento correto de caracteres especiais, acentos e outros caracteres Unicode.
 
 Tabelas
@@ -88,12 +89,14 @@ FINALIZADO
 O sistema também mantém o histórico das alterações de status e as respostas oficiais relacionadas ao protocolo.
 Diagrama EER
 O modelo do banco pode ser visualizado nos arquivos:
+```text
 der/alo_camara_eer.png
 der/alo_camara_eer.pdf
-
+```
 O arquivo editável do MySQL Workbench está disponível em:
+```text
 alo_camara_EER.mwb
-
+```
 Como criar o banco
 1. Instale o MySQL Server e o MySQL Workbench.
 2. Abra o MySQL Workbench.
