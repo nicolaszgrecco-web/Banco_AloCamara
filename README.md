@@ -22,3 +22,14 @@ Banco_AloCamara/
 │   ├── alo_camara_eer.png
 │   └── alo_camara_eer.pdf
 └── README.md
+
+Banco de Dados
+Nome do banco:
+alo_camara
+
+O banco utiliza:
+CHARACTER SET utf8mb4
+COLLATE utf8mb4_unicode_ci
+
+para permitir o armazenamento correto de caracteres especiais, acentos e outros caracteres Unicode.
+
